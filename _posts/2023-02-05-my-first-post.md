@@ -1,7 +1,7 @@
 ---
 title: first post
-author: sky.oh`
-date: 2023-02-05 11:33:00 +0800
+author: sky.oh
+date: 2023-02-05 11:33:00 +0900
 categories: [UNDER_CONSTRUCTION]
 tags: [prototype]
 math: true
