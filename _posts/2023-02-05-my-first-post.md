@@ -7,7 +7,7 @@ tags: [prototype]
 math: true
 mermaid: true
 image:
-  path: /assets/lib/h00b.png
+  path: /assets/h00b.png
   lqip: 
   alt: alt.
 ---
@@ -17,6 +17,7 @@ image:
 # H1 - heading
 
 아이고 이걸 언제 다한담?
+(수정테스트)
 ---
 
 ## Paragraph
