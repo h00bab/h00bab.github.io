@@ -9,7 +9,7 @@ mermaid: true
 image:
   path: /assets/h00b.png
   lqip: 
-  alt: alt.
+  alt: 
 ---
 
 ## 내가 제목이다
