@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<h1 align="center"><a href="https://github.com/h00bab" title="hq">😎</a></h1>
+<!-- <h1 align="center"><a href="https://github.com/h00bab" title="hq">😎</a></h1> -->
 <p align="center">
         <a href="mailto:hq@h00bab.io" title="cmkp">💂</a>
         <a href="mailto:hq@h00bab.io" title="crz">👲</a>
