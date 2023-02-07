@@ -19,7 +19,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "world wide log"                          # the main title
+title: "world wide worklog"                          # the main title
 
 tagline: 'h00babmen'   # it will display as the sub-title
 
