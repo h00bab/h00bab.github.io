@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: "world wide log"                          # the main title
 
-tagline: 'h00babman'   # it will display as the sub-title
+tagline: 'h00babmen'   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   h00bab's weblog
@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: h00bab(sky.oh)
-  email: theneul@gmail.com             # change to your email address
+  email: hq@h00bab.io             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://duge.space/skyoh5iwTU4      # change to your twitter homepage
