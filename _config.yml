@@ -33,7 +33,7 @@ github:
   username: h00bab             # change to your github username
 
 twitter:
-  username: ''            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
   # Change to your full name.
@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "assets/h00b.png"
+avatar: "assets/h00bab.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
